@@ -12,7 +12,7 @@
 // step-1: create a folder with the name crud operation and open the terminal 
 // type npm i then npm i express then npm i mongoose then npm i nodemon 
 //
-//  step-2: create index.js file and src folder inside this create Models folder and 
+// step-2: create index.js file and src folder inside this create Models folder and 
 // in this folder create model.js file
 
 // step-3: create a server with the help of express and then connect with mongodb 
